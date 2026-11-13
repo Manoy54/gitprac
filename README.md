@@ -40,3 +40,4 @@ I am learning Git and GitHub.
 - Staging selects content for the next commit.
 - Committing records a snapshot locally.
 - Pushing sends commits to GitHub.
+
