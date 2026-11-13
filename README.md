@@ -30,5 +30,13 @@ Tailwind uses the official PostCSS integration. The visual system follows the li
 
 Property photos are sourced from Unsplash; original URLs are recorded in `public/images/sources.json`.
 
+--------------------------------------------
 
 I am learning Git and GitHub.
+
+## Git learning notes
+
+- Saving updates the working file.
+- Staging selects content for the next commit.
+- Committing records a snapshot locally.
+- Pushing sends commits to GitHub.
