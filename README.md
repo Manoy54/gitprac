@@ -28,7 +28,8 @@ npm run build
 
 Tailwind uses the official PostCSS integration. The visual system follows the light Swiss industrial direction of the industrial-brutalist-ui skill: paper surfaces, sharp corners, structural rules, heavy type, and a single red accent.
 
-Property photos are sourced from Unsplash; original URLs are recorded in `public/images/sources.json`.
+Property photos are sourced from Unsplash; original URLs are recorded in `public/images/sources.js
 
-
+new
 I am learning Git and GitHub.
+hahaha
