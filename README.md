@@ -41,3 +41,4 @@ I am learning Git and GitHub.
 - Committing records a snapshot locally.
 - Pushing sends commits to GitHub.
 
+I am practicing amending a commit.
