@@ -42,3 +42,4 @@ I am learning Git and GitHub.
 - Pushing sends commits to GitHub.
 
 I am practicing amending a commit.
+Amend replaces the latest commit with an updated commit.
