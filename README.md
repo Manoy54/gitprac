@@ -1,5 +1,9 @@
 # FORME
 
+This repository is used for Git practice.
+
+
+
 A rental homes UI for landlords and renters, built with Next.js, React, TypeScript, and Tailwind CSS 4.
 
 ## Run locally
