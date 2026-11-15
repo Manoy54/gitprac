@@ -41,4 +41,15 @@ I am learning Git and GitHub.
 - Committing records a snapshot locally.
 - Pushing sends commits to GitHub.
 
+<<<<<<< HEAD
 -This line was added on GitHub to practice fetching.
+=======
+I am practicing amending a commit.
+Amend replaces the latest commit with an updated commit.
+
+
+Stashes temporarily store unfinished changes locally.
+
+
+im in amend 
+>>>>>>> 62b6a02 (amend)
