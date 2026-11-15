@@ -50,3 +50,6 @@ Amend replaces the latest commit with an updated commit.
 
 
 Stashes temporarily store unfinished changes locally.
+
+
+im in amend 
