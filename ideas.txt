@@ -1,0 +1,1 @@
+To inspect unstaged changes, run git diff.

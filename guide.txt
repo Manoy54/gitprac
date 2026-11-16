@@ -1,1 +1,0 @@
-To inspect repository status, run git status.
